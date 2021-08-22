@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeoTarrero
-- 👀 I’m interested in UX/UI Design and Front end Development.
+- 👀 I’m interested in UX/UI Design and Front End Development.
 
 
 <!---
